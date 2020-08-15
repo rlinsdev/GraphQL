@@ -8,7 +8,7 @@ GraphiQL
 MongoDB
 React.js
 Node.js
-Apollo
+Apollo Client
 
 
 ## To Run
