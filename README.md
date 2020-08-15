@@ -13,9 +13,13 @@ Apollo Client
 
 ## To Run
 
-nodemon app
+In server: nodemon app. 
 
 rs -> refresh
+
+In Client: npm start.
+
+
 
 
 ```bash
