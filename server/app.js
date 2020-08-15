@@ -6,7 +6,7 @@ const mongoose  = require('mongoose'); // Acesso ao mongo DB
 const app = express();
 
 // Connection string
-// Não subir a senha
+// Não subir a senha 
 mongoose.connect('mongodb+srv://gqluser:teste**@cluster0.itrkd.mongodb.net/graphiql?retryWrites=true&w=majority',
  { useNewUrlParser: true, useUnifiedTopology: true });
 mongoose.connection.once('open',()=>{
