@@ -2,8 +2,12 @@ const express = require('express');
 const graphqlHTTP = require('express-graphql').graphqlHTTP;
 const schema = require('./schema/schema');
 const mongoose  = require('mongoose'); // Acesso ao mongo DB
+const cors = require('cors');
 
 const app = express();
+
+//Allow Cross-origin requests
+app.use(cors());
 
 // Connection string
 // Não subir a senha 
