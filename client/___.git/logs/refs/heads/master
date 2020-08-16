@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 abed6c68f8fefa6f426d5bfe44171c73b5939411 Rodrigo Lins e Freitas <rlinsdev@gmail.com> 1597525325 -0300	commit (initial): Initialize project using Create React App
-abed6c68f8fefa6f426d5bfe44171c73b5939411 af64f0700833a7fb82000ee5776348f64cccb7b7 Rodrigo Lins e Freitas <rlinsdev@gmail.com> 1597527954 -0300	commit: #23
-af64f0700833a7fb82000ee5776348f64cccb7b7 e35797e6b2db2cd827f0426bb555643f59ef42f4 Rodrigo Lins e Freitas <rlinsdev@gmail.com> 1597529656 -0300	commit: Apollo client
-e35797e6b2db2cd827f0426bb555643f59ef42f4 ec467d6947cd4ecb63586e8fa8aaae2b72ff16a6 Rodrigo Lins e Freitas <rlinsdev@gmail.com> 1597530988 -0300	commit: Adding Cors package, structure of GraphQL in front
-ec467d6947cd4ecb63586e8fa8aaae2b72ff16a6 a02cb520a582d6e136c09f4df8d3253c53390e3e Rodrigo Lins e Freitas <rlinsdev@gmail.com> 1597532285 -0300	commit: Show the books
-a02cb520a582d6e136c09f4df8d3253c53390e3e 8c128582933011e16e4649123ef1798f062fe91c Rodrigo Lins e Freitas <rlinsdev@gmail.com> 1597533382 -0300	commit: Add Books
